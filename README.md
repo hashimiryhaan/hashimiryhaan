@@ -7,7 +7,7 @@
 
 🎨 Passionate Graphic Designer
 
-<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/daa8e4c5-7f55-4f32-bea3-11774eeb0a79" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/daa8e4c5-7f55-4f32-bea3-11774eeb0a79" />
 
 
 
